@@ -1,0 +1,93 @@
+.homeContainer {
+    width: 100%;
+    height: 93vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.form {
+    width: 600px;
+    height: 65vh;
+    padding: 20px 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.form_title {
+    font-size: 64px;
+    font-weight: 600;
+    color: #FF6E42;
+    font-family: "Gugi", sans-serif; 
+}
+.input_container {
+    width: 400px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.input_container input {
+    width: 100%;
+    height: 87%;
+    border-radius: 8px;
+    font-family: "Gugi", sans-serif; 
+    margin-bottom: 1%;
+}
+.input_container label {
+    width: 100%;
+    height: 10%;
+    color: #FF6E42;
+    font-size: 16px;
+    text-align: start;
+}
+.input_container .username, .input_container .password, .input_container .password_chk, .input_container .name {
+    font-size: 20px;
+    padding: 10px 5px;
+    border: none;
+    outline: none;
+    transition: box-shadow 0.5s ease-in-out;
+}
+.input_container .username:focus, .input_container .password:focus, .input_container .password_chk:focus, .input_container .name:focus {
+    box-shadow: 0 0 5px #FF6E42, 0 0 20px #FF6E42, 0 0 40px #FF6E42;
+}
+.input_container .reg_btn {
+    font-size: 24px;
+}
+.input_container .reg_btn:hover {
+    cursor: pointer;
+}
+
+.username_check_form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    padding: 0;
+    width: 410px;
+    height: 87%;
+    border-radius: 8px;
+    font-family: "Gugi", sans-serif; 
+    margin-bottom: 1%;
+}
+
+.username_check_form input {
+    width: 80%;
+    height: 100%;
+    box-sizing: border-box;
+}
+.username_check_form button {
+    width: 15%;
+    font-size: 20px;
+    font-family: "Gugi", sans-serif; 
+    border: none;
+    background-color: inherit;
+    margin-left: 2%;
+    transition: color ease-in-out 0.3s;
+}
+.username_check_form button:hover {
+    color: #fff;
+}
