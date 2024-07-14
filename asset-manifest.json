@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ctf/static/css/main.858c57e8.css",
+    "main.js": "/ctf/static/js/main.e2c4094d.js",
+    "static/js/453.b9360c40.chunk.js": "/ctf/static/js/453.b9360c40.chunk.js",
+    "static/media/openart-image_jvpwcrMD_1718071803412_raw.jpg": "/ctf/static/media/openart-image_jvpwcrMD_1718071803412_raw.a87faa6e5590ca7ca5b7.jpg",
+    "static/media/openart-image_9FdSzT1G_1718071894876_raw.jpg": "/ctf/static/media/openart-image_9FdSzT1G_1718071894876_raw.ba43caca2af3593b4c14.jpg",
+    "static/media/openart-image_WcSR5ALK_1718072039842_raw.jpg": "/ctf/static/media/openart-image_WcSR5ALK_1718072039842_raw.4c68a283a729665b8755.jpg",
+    "static/media/openart-image_LiAWlVsY_1718071862413_raw.jpg": "/ctf/static/media/openart-image_LiAWlVsY_1718071862413_raw.393b0178e2e256cc14b2.jpg",
+    "static/media/openart-image_lRWJnObE_1718072579865_raw.jpg": "/ctf/static/media/openart-image_lRWJnObE_1718072579865_raw.811b3290d249211bea8a.jpg",
+    "static/media/openart-image_QwQz8Mw6_1718072362453_raw.jpg": "/ctf/static/media/openart-image_QwQz8Mw6_1718072362453_raw.3ae600c7784edcf9d068.jpg",
+    "index.html": "/ctf/index.html",
+    "main.858c57e8.css.map": "/ctf/static/css/main.858c57e8.css.map",
+    "main.e2c4094d.js.map": "/ctf/static/js/main.e2c4094d.js.map",
+    "453.b9360c40.chunk.js.map": "/ctf/static/js/453.b9360c40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.858c57e8.css",
+    "static/js/main.e2c4094d.js"
+  ]
+}
